@@ -3,4 +3,4 @@ trashbag
 
 trash repo
 
-z trash
+z trash.
