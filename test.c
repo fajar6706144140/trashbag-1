@@ -4,7 +4,7 @@
 int main()
 {
     int a = 1;
-    a = 8;// comment 7
+    a = 8;// comment 8
     printf("Some number: %d", a);
     return 0;
 }
