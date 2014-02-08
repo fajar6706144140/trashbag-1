@@ -10,7 +10,7 @@ int main()
     433
     mment kjhkjh
     
-    
+
     printf("Some number: %d", a);
     return 0;
     
