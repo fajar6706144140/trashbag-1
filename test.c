@@ -4,7 +4,7 @@
 int main()
 
 {
- a = 1;
+ a = 1;jhhj
     a = 8;// co233
     
     433
