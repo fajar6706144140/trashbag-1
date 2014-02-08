@@ -3,7 +3,7 @@
 int main()
 {
     int a = 1;
-    a = 121343423;
-    printf("%d", a);
+    a = 6;
+    printf("Some number: %d", a);
     return 0;
 }
