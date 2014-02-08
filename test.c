@@ -3,7 +3,7 @@
 int main()
 {
     int a = 1;
-    a = 8;// comment 4
+    a = 8;// comment 5
     printf("Some number: %d", a);
     return 0;
 }
