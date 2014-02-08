@@ -5,7 +5,7 @@ int main()
 {
     
     int a = 1;
-    a = 8;// co
+    a = 8;// co23
     mment kjhkjh
     printf("Some number: %d", a);
     return 0;
